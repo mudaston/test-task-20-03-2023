@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "9563e37a-3c85-48cd-a4c4-bcf7f0c15f7f",
+    "name": "(Global Env)",
+    "default": false,
+    "global": true,
+    "sortNum": -2,
+    "created": "2023-03-18T20:03:07.585Z",
+    "modified": "2023-03-18T20:03:07.585Z",
+    "data": [
+      {
+        "name": "api_url",
+        "value": "https://jsonplaceholder.typicode.com"
+      }
+    ]
+  }
+]

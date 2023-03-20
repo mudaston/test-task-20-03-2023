@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "51097742-17f8-40a7-81b8-3c7132cccbe8",
+    "colId": "history",
+    "containerId": "",
+    "name": "get users",
+    "url": "{{api_url}}/users",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-03-18T20:02:12.429Z",
+    "modified": "2023-03-18T20:05:33.404Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "518b109e-349a-4895-a1a3-fa3afee3c389",
+    "colId": "history",
+    "containerId": "",
+    "name": "get user by id",
+    "url": "{{api_url}}/users?id=4",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-03-18T20:02:12.429Z",
+    "modified": "2023-03-18T20:06:51.325Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "id",
+        "value": "4",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  }
+]
